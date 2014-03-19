@@ -167,7 +167,7 @@ GEM
       railties (>= 3.0)
       rspec (~> 2.11.0)
     rubyzip (1.1.0)
-    sass (3.2.14)
+    sass (3.3.2)
     sass-rails (3.2.5)
       railties (~> 3.2.0)
       sass (>= 3.1.10)
@@ -192,7 +192,7 @@ GEM
     treetop (1.4.15)
       polyglot
       polyglot (>= 0.3.1)
-    tzinfo (0.3.38)
+    tzinfo (0.3.39)
     uglifier (1.2.3)
       execjs (>= 0.3.0)
       multi_json (>= 1.0.2)
